@@ -1,0 +1,3 @@
+Download models in this folder from 
+
+!git clone --depth 1 https://github.com/tensorflow/models
