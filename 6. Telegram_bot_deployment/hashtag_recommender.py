@@ -4,15 +4,6 @@ import photo_recognition
 import text_preprocess
 import regression
 
-# Это последняя часть программы
-# она должна по идеи вызывать все функции
-# запускает regression - потом печатает результат (результат сохраняется в переменные, печать для проверки)
-# потом запускает photo_recognition (фотография у меня находится сразу в папке, пока нигде нет запроса на скачку фото)
-# потом запускает text_preprocess берёт caption_text из результата работы regression
-# потом полученная информация что на фото и обработанный текст складываются в один лист
-# потом загружает файл с хэштэгами
-# потом происходит поиск и пока что поиск только печатает результат
-# в итоге я хочу передать этот результат на сайт (сделаю лист из таплов с хэштэгом и популярностью хэштэга)
 
 # Last script which runs all scripts
 # 1. Runs regression to take all info from there, most important caption_text
@@ -59,7 +50,7 @@ def start_all():
     for _, row in all_hashtags.loc[set(all_indices), :].iterrows():
         other_hashtags.append('#' + row.original_hash)
         for i in range(len(row)):
-            if num_followers * 1000 > int(row.num_posts[i]):
+            if num_followers * 100 > int(row.num_posts[i]):
                 usefull_hashtags.append('#' + row['similar'][i])
             else:
                 other_hashtags.append('#' + row['similar'][i])
