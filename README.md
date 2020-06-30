@@ -1,12 +1,14 @@
+`python || Tensorflow | XGBoost | NLTK | gensim | Octoparse | pandas | seaborn `
+
 # The InstaFortune Teller
-is a Telegram bot which predicts a number of likes and engagement rate (in %) for new Instagram post. It also recommends suitable hashtags for new post based on photo and caption text. The InstaFortune Teller will give you some secret advice about Instagram strategy.
+is a Telegram bot which predicts a number of likes and engagement rate (in %) for new Instagram post. It also recommends suitable hashtags for a new post based on photo and caption text. The InstaFortune Teller will give you some secret advice about Instagram strategy.
 
 <img src=https://github.com/April-DS/TheInstaFortuneTeller/blob/master/6.%20Telegram_bot_deployment/image/userpicture.jpg  width="400" height="400"/>
 
 Aim Of The Project:
 - Build a dataset of Instagram Influencers.
 - Analyse main trends in Instagram.
-- Build a model to predict number of likes for a new post.
+- Build a model to predict a number of likes for a new post.
 - Employ pretrained model for object detection.
 - Build hashtag recommender.
 - Deploy a model as a Telegram Bot.
@@ -17,7 +19,7 @@ Aim Of The Project:
 
 ## Content:
 - [Scraping data from Instagram profiles](https://github.com/April-DS/TheInstaFortuneTeller/blob/master/instagram_project_0-Scraper.ipynb)
-- [Cleaning Datasets and Frature Engineering](https://github.com/April-DS/TheInstaFortuneTeller/blob/master/instagram_project_1_Cleaning_Frature_engineering.ipynb)
+- [Cleaning Datasets and Feature Engineering](https://github.com/April-DS/TheInstaFortuneTeller/blob/master/instagram_project_1_Cleaning_Frature_engineering.ipynb)
 - [Exploratory Data Analysis for Instagram trends](https://github.com/April-DS/TheInstaFortuneTeller/blob/master/instagram_project_2_EDA.ipynb)
 - [Regression models for prediction number of likes](https://github.com/April-DS/TheInstaFortuneTeller/blob/master/Instagram_project_3_Regression.ipynb)
   - [Regression models for each influencer type](https://github.com/April-DS/TheInstaFortuneTeller/tree/master/3.Regression_for_each_type_influencers)
