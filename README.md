@@ -20,7 +20,7 @@ Aim Of The Project:
 2. [Cleaning Datasets and Frature Engineering](https://github.com/April-DS/TheInstaFortuneTeller/blob/master/instagram_project_1_Cleaning_Frature_engineering.ipynb)
 3. [Exploratory Data Analysis for Instagram trends](https://github.com/April-DS/TheInstaFortuneTeller/blob/master/instagram_project_2_EDA.ipynb)
 4. [Regression models for prediction number of likes](https://github.com/April-DS/TheInstaFortuneTeller/blob/master/Instagram_project_3_Regression.ipynb)
-  4.1. [Regression models for each influencer type](https://github.com/April-DS/TheInstaFortuneTeller/tree/master/3.Regression_for_each_type_influencers)
+4.1. [Regression models for each influencer type](https://github.com/April-DS/TheInstaFortuneTeller/tree/master/3.Regression_for_each_type_influencers)
 5. [Object detection](https://github.com/April-DS/TheInstaFortuneTeller/tree/master/5.%20Object_detection)
 6. [Hashtag recommender](https://github.com/April-DS/TheInstaFortuneTeller/blob/master/Instagram_project_4_Hashtags_search.ipynb)
 7. [Telegram Bot The InstaFortune Teller](https://github.com/April-DS/TheInstaFortuneTeller/tree/master/6.%20Telegram_bot_deployment)
