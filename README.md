@@ -3,9 +3,10 @@
 # The InstaFortune Teller
 is a Telegram bot which predicts a number of likes and engagement rate (in %) for new Instagram post. It also recommends suitable hashtags for a new post based on photo and caption text. The InstaFortune Teller will give you some secret advice about Instagram strategy.
 
-<img src=https://github.com/April-DS/TheInstaFortuneTeller/blob/master/6.%20Telegram_bot_deployment/image/userpicture.jpg  width="400" height="400"/>
+<img src=https://github.com/April-DS/TheInstaFortuneTeller/blob/master/6.%20Telegram_bot_deployment/image/userpicture.jpg  width="200" height="200"/>
 
-<div align="center">
+Video Presentation
+<div align="left">
   <a href="https://www.youtube.com/watch?v=R-3xNKX_hMI"><img src="https://img.youtube.com/vi/R-3xNKX_hMI/2.jpg" alt="The InstaFortuneTeller"></a>
 </div>
 
